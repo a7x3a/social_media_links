@@ -2,8 +2,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/a7x3a/social_media_links
+- Live Site URL: 
 
 
 ### Built with
