@@ -3,7 +3,7 @@
 ### Links
 
 - Solution URL: https://github.com/a7x3a/social_media_links
-- Live Site URL: 
+- Live Site URL: https://a7x3a.github.io/social_media_links/
 
 
 ### Built with
