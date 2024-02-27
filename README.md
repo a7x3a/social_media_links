@@ -12,7 +12,7 @@
 - CSS custom properties
 - Flexbox
 - Tailwindcss
-- Mobile-first workflow
+
 
 
 ### What I learned
